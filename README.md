@@ -1,1 +1,1 @@
-![Calculadora iPhone](imagem-calculadora)
+![Calculadora iPhone](imagem-calculadora.jpg)
